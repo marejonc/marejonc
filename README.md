@@ -7,7 +7,7 @@
 - ✉️ You can reach me at [ma_jonczyk@wp.pl](mailto:ma_jonczyk@wp.pl)
 ### Skills
 
-[![My Skills]([https://skillicons.dev/icons?i=dart,flutter](https://skillicons.dev/icons?i=dart,flutter,ts,react,firebase,gitlab,github,git,postman,sqlite,vscode,androidstudio,figma,apple,windows))](https://github.com/marejonc?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,ts,react,firebase,gitlab,github,git,postman,sqlite,vscode,androidstudio,figma,apple,windows))](https://github.com/marejonc?tab=repositories)
 
 ### Socials
 

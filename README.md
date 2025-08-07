@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 My name is Marek Jonczyk
 
-<!--
-**marejonc/marejonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer
 
-Here are some ideas to get you started:
+- 📱 Experienced in developing Flutter appps
+- 🔭 I’m currently learning React Native
+- ✉️ You can reach me at [ma_jonczyk@wp.pl](mailto:ma_jonczyk@wp.pl)
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills]([https://skillicons.dev/icons?i=dart,flutter](https://skillicons.dev/icons?i=dart,flutter,ts,react,firebase,gitlab,github,git,postman,sqlite,vscode,androidstudio,figma,apple,windows))](https://github.com/marejonc?tab=repositories)
+
+### Socials
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marejonc)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://www.github.com/marejonc)

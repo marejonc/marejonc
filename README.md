@@ -3,7 +3,6 @@
 ### Software Engineer
 
 - 📱 Experienced in developing Flutter apps
-- 🔭 I’m currently learning React Native
 - ✉️ You can reach me at [ma_jonczyk@wp.pl](mailto:ma_jonczyk@wp.pl)
 ### Skills
 
